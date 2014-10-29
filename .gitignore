@@ -23,3 +23,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Defaults files
+js/cbpAnimatedHeader.js
+js/bootstrap.js
+css/bootstrap.css

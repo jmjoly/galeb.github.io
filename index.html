@@ -6,8 +6,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Galeb is an open source Router as a Service software.">
+    <meta name="author" content="Globo.com">
 
     <title>Galeb</title>
 
@@ -15,7 +15,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/agency.css" rel="stylesheet">
+    <link href="css/galeb.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -23,6 +23,9 @@
     <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="img/favicon.png"/>
 
 </head>
 
@@ -44,6 +47,11 @@
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="navbar-left" id="sourcecode">
+                    <li>
+                        <a href="https://github.com/galeb" target="_blank" class="btn btn-default btn-xs navbar-btn sourcecode" role="button"><i class="fa fa-github"></i> View on Github</a>
+                    </li>
+                </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
                         <a href="#page-top"></a>
@@ -86,20 +94,25 @@
                 </div>
             </div>
             <div class="row text-center">
-                <div class="col-md-4">
-                    <i class="fa fa-bar-chart fa-stack fa-3x"></i>
-                    <h4 class="features-heading">Metrics</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                </div>
-                <div class="col-md-4">    
+                <div class="col-md-3">
                     <i class="fa fa-arrows-alt fa-stack fa-3x"></i>
                     <h4 class="features-heading">Balance Methods</h4>
-                    <p>Use different methods to balancing your traffic just with a configuration into API Rest.</p>
+                    <p>Use different methods to balancing your traffic like consistent-hash and round-robin. Set this just with a configuration into API Rest.</p>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
+                    <i class="fa fa-bar-chart fa-stack fa-3x"></i>
+                    <h4 class="features-heading">Metrics</h4>
+                    <p>Collect metrics like requests, active connections and request time. Send to statsd and use this to improve your services.</p>
+                </div>
+                <div class="col-md-3">
                     <i class="fa fa-stack fa-3x">API</i>
-                    <h4 class="features-heading">Live Configuration</h4>
-                    <p>Don't need reload, using the API to put new and remove old configuration.</p>
+                    <h4 class="features-heading">Dynamic Configuration</h4>
+                    <p>You can alter the configuration any time. There is no need to restart or to signal it that the configuration has changed.</p>
+                </div>
+                <div class="col-md-3">
+                    <i class="fa fa-stethoscope fa-stack fa-3x"></i>
+                    <h4 class="features-heading">Healthcheck</h4>
+                    <p>If a backend stops responding, it will be flagged as dead and will activate the healthcheck manager to bring to life when respond.</p>
                 </div>
             </div>
         </div>
@@ -111,11 +124,274 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Getting Started</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <p>The following instructions may help you get started with galeb in a standalone environment.</p>
                 </div>
             </div>
             <div class="row">
-                <pre>code test</pre>
+                <div class="col-xs-6 col-sm-8 col-sm-offset-2">
+                    <h4>External Dependencies</h4>
+                    <ul>
+                        <li>Java 7 or better should be installed and in the PATH</li>
+                        <li>Vert.x 2.1.1 (<a href="https://bintray.com/vertx/downloads/distribution/2.1.1" target="_blank">Download</a>)</li>
+                    </ul>
+                </div>
+                <div class="col-xs-6 col-sm-8 col-sm-offset-2">
+                    <h4>1. Installation</h4>
+                    <p>From the shell:</p>
+                    <pre>$ git clone https://github.com/galeb/galeb
+$ cd galeb/galeb
+$ mvn clean package</pre>
+                </div>
+                <div class="col-xs-6 col-sm-8 col-sm-offset-2">
+                    <h4>2. Configuration</h4>
+                    <p>Basic Galeb configuration is described in a json file. For example:</p>
+                    <pre>{
+  "router":{
+    "port"           : 8000,
+    "instances"      : 4,
+    "requestTimeOut" : 30000,
+    "maxPoolSize"    : 10
+  },
+  "routemanager":{
+    "port"           : 9000,
+    "instances"      : 1
+  },
+  "healthmanager":{
+    "checkInterval"  : 5000,
+    "uriHealthCheck" : "/"
+  },
+  "statsd":{
+    "host"           : "127.0.0.1",
+    "port"           : 8125,
+    "prefix"         : "yourproject"
+  }
+}
+</pre>
+                    <ul>
+                        <li>
+                            <strong>router:</strong> main router settings, like port, or number of instances
+                            <ul>
+                                <li><strong>port:</strong> Port to listen to for http. Defaults to 8000.</li>
+                                <li><strong>instances:</strong> Number of instances to be spawned. You need to request to have at least 1 instance. Defaults to number of processors.</li>
+                                <li><strong>requestTimeOut:</strong> Number in milliseconds a request to respond. Defaults to 20000.</li>
+                                <li><strong>maxPoolSize:</strong> Number used in HttpClient to handle connections on internal pool. Defaults to 1.</li>
+                            </ul>
+                        </li>
+                        <br>
+                        <li>
+                            <strong>routemanager:</strong> configuration API settings, like port and instances
+                            <ul>
+                                <li><strong>port:</strong> Port to listen to for http. Defaults to 9000.</li>
+                                <li><strong>instances:</strong> Number of instances to be spawned. Defaults to 1.</li>
+                            </ul>
+                        </li>
+                        <br>
+                        <li>
+                            <strong>healthmanager:</strong> interval time and path to check dead backends and come to life
+                            <ul>
+                                <li><strong>checkInterval:</strong> Interval to check all dead backends. Defaults to 5000.</li>
+                                <li><strong>uriHealthCheck:</strong> Path used to check backend when flagged as dead. Defaults to "/".</li>
+                            </ul>
+                        </li>
+                        <br>
+                        <li>
+                            <strong>statsd:</strong> hostname, port and statsd prefix that used to send metrics
+                            <ul>
+                                <li><strong>host:</strong> IP address or hostname of statsd server.</li>
+                                <li><strong>port:</strong> Port that statsd server listening for UDP packages.</li>
+                                <li><strong>prefix:</strong> Prefix used when send a new metric.</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-xs-6 col-sm-8 col-sm-offset-2">
+                    <h4>3. Spawning</h4>
+                    <p>From the shell (defaults to using the config/config.json file):</p>
+                    <pre>$ </pre>
+                    <p>If you want to use a specific configuration file:</p>
+                    <pre>$ -conf path/to/config.json</pre>
+                </div>
+                <div class="col-xs-6 col-sm-8 col-sm-offset-2">
+                    <h4>4. Configuring a vhost (API)</h4>
+                    <p>When galeb starts, it starts the routemanager too, that is our configuration API. Now you can just send a POST to create new routes. With a GET you can see the initial state of your router.</p>
+                    <p>The format of this message is as follows:</p>
+                    <pre>$ curl http://127.0.0.1:9000/farm
+{
+  "id" : "",
+  "_links" : {
+    "rel" : "self",
+    "href" : "http://127.0.0.1:9000/farm/"
+  },
+  "_created_at" : 1414522251128,
+  "_modified_at" : 1414522251129,
+  "properties" : {
+    "instances" : 4,
+    "port" : 8000,
+    "requestTimeOut" : 20000,
+    "maxPoolSize" : 10,
+    "_starterConf" : {
+      "router" : {
+        "instances" : 4,
+        "port" : 8080,
+        "requestTimeOut" : 20000,
+        "maxPoolSize" : 10
+      },
+      "routemanager" : {
+        "instances" : 1,
+        "port" : 9000
+      },
+      "healthmanager" : {
+        "instances" : 1,
+        "checkInterval" : 5000,
+        "uriHealthCheck" : "/"
+      },
+      "statsd" : {
+        "host" : "127.0.0.1",
+        "port" : 8125,
+        "prefix" : "galeb"
+      }
+    },
+    "enableStatsd" : true,
+    "statsdHost" : "127.0.0.1",
+    "statsdPrefix" : "galeb",
+    "statsdPort" : 8125
+  },
+  "version" : 0,
+  "virtualhosts" : [ ]
+}
+</pre>
+                    <p>Now let's take an example, I want to proxify requests to 2 backends for the hostname 'www.galeb.com'. The 2 backends IP are 192.168.0.10 and 192.168.0.20 and they serve the HTTP traffic on the port 80.</p>
+                    <p>Here are the steps I will follow:<p>
+                    <p><strong>3.1. Create</strong> the virtualhost and associate an identifier 'www.galeb.com':</p>
+                    <pre>$ curl -XPOST http://127.0.0.1:9000/virtualhost -d '
+{
+    "version": 1,
+    "id": "www.galeb.com",
+    "properties": {}
+}'</pre>
+                    <p>API will respond always "OK" to success because we use EventBus to queue messages:</p>
+                    <pre>
+{
+  "status_message" : "OK"
+}</pre>
+                    <p>If you want to create your virtualhost with different balance method use the properties field:</p>
+                    <pre>$ curl -XPOST http://127.0.0.1:9000/virtualhost -d '
+{
+    "version": 1,
+    "id": "www.galeb.com",
+    "properties": {
+        "loadBalancePolicy": "HashPolicy"
+    }
+}'</pre>
+                    <p><strong>3.2. Associate</strong> the 2 backends:</p>
+                    <pre>$ curl -XPOST http://127.0.0.1:9000/backend -d '
+{
+    "version": 1,
+    "id": "192.168.0.10:80",
+    "parentId": "www.galeb.com"
+}'
+
+$ curl -XPOST http://127.0.0.1:9000/backend -d '
+{
+    "version": 1,
+    "id": "192.168.0.20:80",
+    "parentId": "www.galeb.com"
+}'</pre>
+                    <p><strong>3.3. Review</strong> the configuration:</p>
+                    <pre>$ curl http://127.0.0.1:9000/farm
+{
+  "id" : "",
+  "_links" : {
+    "rel" : "self",
+    "href" : "http://127.0.0.1:9000/farm/"
+  },
+  "_created_at" : 1414522251129,
+  "_modified_at" : 1414522251129,
+  "properties" : {
+    "instances" : 4,
+    "port" : 8080,
+    "requestTimeOut" : 20000,
+    "maxPoolSize" : 10,
+    "_starterConf" : {
+      "router" : {
+        "instances" : 4,
+        "port" : 8080,
+        "requestTimeOut" : 20000,
+        "maxPoolSize" : 10
+      },
+      "routemanager" : {
+        "instances" : 1,
+        "port" : 9000
+      },
+      "healthmanager" : {
+        "instances" : 1,
+        "checkInterval" : 5000,
+        "uriHealthCheck" : "/"
+      },
+      "statsd" : {
+        "host" : "127.0.0.1",
+        "port" : 8125,
+        "prefix" : "galeb"
+      }
+    },
+    "enableStatsd" : true,
+    "statsdHost" : "127.0.0.1",
+    "statsdPrefix" : "galeb",
+    "statsdPort" : 8125
+  },
+  "version" : 1,
+  "virtualhosts" : [ {
+    "id" : "www.galeb.com",
+    "_links" : {
+      "rel" : "self",
+      "href" : "http://127.0.0.1:9000/virtualhost/www.galeb.com"
+    },
+    "_status" : "created",
+    "_created_at" : 1414522459031,
+    "_modified_at" : 1414522489010,
+    "properties" : {
+      "loadBalancePolicy" : "RandomPolicy",
+      "requestTimeOut" : 20000,
+      "maxPoolSize" : 10
+    },
+    "backends" : {
+      "eligible" : [ {
+        "id" : "192.168.0.10:80",
+        "_links" : {
+          "rel" : "self",
+          "href" : "http://127.0.0.1:9000/backend/192.168.0.10:80"
+        },
+        "_status" : "created",
+        "_created_at" : 1414522483923,
+        "_modified_at" : 1414522483923,
+        "properties" : {
+          "maxPoolSize" : 10
+        },
+        "parentId" : "www.galeb.com"
+      }, {
+        "id" : "192.168.0.20:80",
+        "_links" : {
+          "rel" : "self",
+          "href" : "http://127.0.0.1:9000/backend/192.168.0.20:80"
+        },
+        "_status" : "created",
+        "_created_at" : 1414522489010,
+        "_modified_at" : 1414522489010,
+        "properties" : {
+          "maxPoolSize" : 10
+        },
+        "parentId" : "www.galeb.com"
+      } ],
+      "failed" : [ ]
+    },
+    "_transientState" : true
+  } ]
+}
+</pre>
+                <p>While the server is running, any of these steps can be re-run without messing up with the traffic.</p>
+                </div>
+            </div>
+            
         </div>
     </section>
 
@@ -199,7 +475,7 @@
     <script src="js/cbpAnimatedHeader.js"></script>
 
     <!-- Custom Theme JavaScript -->
-    <script src="js/agency.js"></script>
+    <script src="js/galeb.js"></script>
 
 </body>
 

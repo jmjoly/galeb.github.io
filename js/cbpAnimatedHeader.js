@@ -26,11 +26,14 @@ var cbpAnimatedHeader = (function() {
 
 	function scrollPage() {
 		var sy = scrollY();
+		var source = document.querySelector('.sourcecode');
 		if ( sy >= changeHeaderOn ) {
 			classie.add( header, 'navbar-shrink' );
+			classie.add( source, 'show' );
 		}
 		else {
 			classie.remove( header, 'navbar-shrink' );
+			classie.remove( source, 'show' );
 		}
 		didScroll = false;
 	}
