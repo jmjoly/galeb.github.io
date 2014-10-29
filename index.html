@@ -128,21 +128,21 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-xs-6 col-sm-8 col-sm-offset-2">
+                <div class="col-md-8 col-sm-offset-2">
                     <h4>External Dependencies</h4>
                     <ul>
                         <li>Java 7 or later should be installed and in the PATH</li>
                         <li>Vert.x 2.1.1 (<a href="https://bintray.com/vertx/downloads/distribution/2.1.1" target="_blank">Download</a>)</li>
                     </ul>
                 </div>
-                <div class="col-xs-6 col-sm-8 col-sm-offset-2">
+                <div class="col-md-8 col-md-offset-2">
                     <h4>1. Installation</h4>
                     <p>From the shell:</p>
                     <pre>$ git clone https://github.com/galeb/galeb
 $ cd galeb/galeb
 $ mvn clean package</pre>
                 </div>
-                <div class="col-xs-6 col-sm-8 col-sm-offset-2">
+                <div class="col-md-8 col-md-offset-2">
                     <h4>2. Configuration</h4>
                     <p>Basic Galeb configuration is described in a json file. For example:</p>
                     <pre>{
@@ -204,14 +204,14 @@ $ mvn clean package</pre>
                         </li>
                     </ul>
                 </div>
-                <div class="col-xs-6 col-sm-8 col-sm-offset-2">
+                <div class="col-md-8 col-md-offset-2">
                     <h4>3. Spawning</h4>
                     <p>From the shell:</p>
                     <pre>$ vertx runzip galeb-router/target/galeb-router-1.0.0-mod.zip</pre>
                     <p>If you want to use a specific configuration file (example in src/test/resources):</p>
                     <pre>$ vertx runzip galeb-router/target/galeb-router-1.0.0-mod.zip -conf path/to/config.json</pre>
                 </div>
-                <div class="col-xs-6 col-sm-8 col-sm-offset-2">
+                <div class="col-md-8 col-md-offset-2">
                     <h4>4. Configuring a vhost (API)</h4>
                     <p>When galeb starts, it starts the routemanager too, that is our configuration API. Now you can just send a POST to create new routes. With a GET you can see the initial state of your router.</p>
                     <p>The format of this message is as follows:</p>
