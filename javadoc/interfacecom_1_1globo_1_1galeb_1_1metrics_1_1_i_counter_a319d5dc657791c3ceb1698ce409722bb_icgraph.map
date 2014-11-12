@@ -1,0 +1,4 @@
+<map id="com.globo.galeb.metrics.ICounter.httpCode" name="com.globo.galeb.metrics.ICounter.httpCode">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_server_response.html#abf54bd42adcae53fed8245a106e09ec6" title="com.globo.galeb.core.Server\lResponse.sendRequestCount" alt="" coords="223,5,422,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_server_response.html#a29ed00fcc0ddacd3e4328a05ac88d319" title="com.globo.galeb.core.Server\lResponse.endResponse" alt="" coords="470,5,662,44"/>
+</map>

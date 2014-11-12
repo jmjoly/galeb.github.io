@@ -1,0 +1,4 @@
+<map id="com.globo.galeb.verticles.HealthManagerVerticle" name="com.globo.galeb.verticles.HealthManagerVerticle">
+<area shape="rect" id="node3" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_i_event_observer.html" title="{com.globo.galeb.core.bus.\lIEventObserver\n||+ setVersion()\l+ postAddEvent()\l+ postDelEvent()\l}" alt="" coords="94,5,272,119"/>
+<area shape="rect" id="node4" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_i_callback_healthcheck.html" title="{com.globo.galeb.core.bus.\lICallbackHealthcheck\n||+ moveBackend()\l}" alt="" coords="296,19,473,105"/>
+</map>

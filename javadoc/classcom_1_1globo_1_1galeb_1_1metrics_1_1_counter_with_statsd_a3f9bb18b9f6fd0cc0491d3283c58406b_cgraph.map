@@ -1,0 +1,4 @@
+<map id="com.globo.galeb.metrics.CounterWithStatsd.httpCode" name="com.globo.galeb.metrics.CounterWithStatsd.httpCode">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1metrics_1_1_counter_with_statsd.html#af4f50d81a6aa2c70dc5a487840fbded6" title="com.globo.galeb.metrics.\lCounterWithStatsd.httpCode" alt="" coords="244,5,435,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1metrics_1_1_statsd_client.html#ab3978333f88b22dd0bca1dea1bca2b74" title="com.globo.galeb.metrics.\lStatsdClient.send" alt="" coords="483,5,653,44"/>
+</map>

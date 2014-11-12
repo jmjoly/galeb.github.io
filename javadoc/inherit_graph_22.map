@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfacecom_1_1globo_1_1galeb_1_1loadbalance_1_1_i_load_balance_policy.html" title="com.globo.galeb.loadbalance.\lILoadBalancePolicy" alt="" coords="5,99,204,138"/>
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_default_load_balance_policy.html" title="com.globo.galeb.loadbalance.impl.\lDefaultLoadBalancePolicy" alt="" coords="526,71,753,110"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_hash_policy.html" title="com.globo.galeb.loadbalance.impl.\lHashPolicy" alt="" coords="252,37,478,75"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_least_conn_policy.html" title="com.globo.galeb.loadbalance.impl.\lLeastConnPolicy" alt="" coords="252,99,478,138"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_random_policy.html" title="com.globo.galeb.loadbalance.impl.\lRandomPolicy" alt="" coords="252,162,478,201"/>
+<area shape="rect" id="node6" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_round_robin_policy.html" title="com.globo.galeb.loadbalance.impl.\lRoundRobinPolicy" alt="" coords="252,225,478,263"/>
+</map>

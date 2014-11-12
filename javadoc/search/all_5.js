@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['farm',['Farm',['../classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html',1,'com::globo::galeb::core']]],
+  ['farm',['FARM',['../enumcom_1_1globo_1_1galeb_1_1core_1_1_manager_service_1_1_uri_supported.html#abd630e4b0cd5f90c90360259b1b7f2e7',1,'com.globo.galeb.core.ManagerService.UriSupported.FARM()'],['../classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a1cc0fcca13c2a59ca0796eb619344c25',1,'com.globo.galeb.core.Farm.Farm()']]],
+  ['farm_2ejava',['Farm.java',['../_farm_8java.html',1,'']]],
+  ['farm_5fbackends_5ffieldname',['FARM_BACKENDS_FIELDNAME',['../classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#ae73cfe86c4fbc3bfefae852e2b02f55b',1,'com::globo::galeb::core::Farm']]],
+  ['farm_5fmap',['FARM_MAP',['../classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#ac7430c8a4e6f3c85521a4d0336949c00',1,'com::globo::galeb::core::Farm']]],
+  ['farm_5fshareddata_5fid',['FARM_SHAREDDATA_ID',['../classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a7112bbed9373f1191e7cc74160f5d425',1,'com::globo::galeb::core::Farm']]],
+  ['farm_5fversion_5ffieldname',['FARM_VERSION_FIELDNAME',['../classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a577ef7b7606d3edbb9aa31d963431d93',1,'com::globo::galeb::core::Farm']]],
+  ['farm_5fvirtualhosts_5ffieldname',['FARM_VIRTUALHOSTS_FIELDNAME',['../classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a4fa3ac656770a0361346f549db05d7fa',1,'com::globo::galeb::core::Farm']]],
+  ['farmmap',['FarmMap',['../classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_farm_map.html',1,'com::globo::galeb::core::bus']]],
+  ['farmmap',['FarmMap',['../classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_farm_map.html#ae92ab0ec532c29cd5f476ef54ec845fb',1,'com::globo::galeb::core::bus::FarmMap']]],
+  ['farmmap_2ejava',['FarmMap.java',['../_farm_map_8java.html',1,'']]],
+  ['finalize',['finalize',['../classcom_1_1globo_1_1galeb_1_1core_1_1_backend.html#a7db8aed093736cd887ae5f2c887b0334',1,'com.globo.galeb.core.Backend.finalize()'],['../classcom_1_1globo_1_1galeb_1_1core_1_1_backend_session.html#ae9404f6a1c516b13ab494baa59117117',1,'com.globo.galeb.core.BackendSession.finalize()'],['../classcom_1_1globo_1_1galeb_1_1handlers_1_1_router_request_handler.html#acc2456a4394b1431384e69d909cce3fa',1,'com.globo.galeb.handlers.RouterRequestHandler.finalize()'],['../classcom_1_1globo_1_1galeb_1_1scheduler_1_1impl_1_1_vertx_delay_scheduler.html#acb4a976f350e73b81b7f6d2feb0e1f67',1,'com.globo.galeb.scheduler.impl.VertxDelayScheduler.finalize()'],['../classcom_1_1globo_1_1galeb_1_1scheduler_1_1impl_1_1_vertx_periodic_scheduler.html#a29a7d375839e62d6e119f39da7c9d26f',1,'com.globo.galeb.scheduler.impl.VertxPeriodicScheduler.finalize()']]],
+  ['forwardtobackend',['forwardToBackend',['../classcom_1_1globo_1_1galeb_1_1handlers_1_1ws_1_1_backend_web_socket_handler.html#ab7539aef24099fcc89274e30486a7d46',1,'com::globo::galeb::handlers::ws::BackendWebSocketHandler']]],
+  ['found',['FOUND',['../classcom_1_1globo_1_1galeb_1_1core_1_1_http_code.html#a3476ec962777da184d9d88d648b67033',1,'com::globo::galeb::core::HttpCode']]],
+  ['frontendwebsockethandler',['FrontendWebSocketHandler',['../classcom_1_1globo_1_1galeb_1_1handlers_1_1ws_1_1_frontend_web_socket_handler.html',1,'com::globo::galeb::handlers::ws']]],
+  ['frontendwebsockethandler',['FrontendWebSocketHandler',['../classcom_1_1globo_1_1galeb_1_1handlers_1_1ws_1_1_frontend_web_socket_handler.html#aa6206793439dcb8747d4d8589f062b13',1,'com::globo::galeb::handlers::ws::FrontendWebSocketHandler']]],
+  ['frontendwebsockethandler_2ejava',['FrontendWebSocketHandler.java',['../_frontend_web_socket_handler_8java.html',1,'']]]
+];

@@ -1,0 +1,6 @@
+<map id="com.globo.galeb.core.Server.getHttpServerName" name="com.globo.galeb.core.Server.getHttpServerName">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_entity.html#ad7d4ac846e4238b0f8dbd14ac9180ccb" title="com.globo.galeb.core.Entity.prepareJson" alt="" coords="267,31,529,56"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a3e069d61fce474235c38f8d5ad7bb35a" title="com.globo.galeb.core.Farm.toJson" alt="" coords="884,5,1110,31"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a59e9f67d774b75e786f86a1fbdd5d52c" title="com.globo.galeb.core.Virtualhost.toJson" alt="" coords="577,31,836,56"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_backend.html#aa30823c7b63f463f880c9e5fd3f2c84c" title="com.globo.galeb.core.Backend.toJson" alt="" coords="583,80,830,105"/>
+</map>

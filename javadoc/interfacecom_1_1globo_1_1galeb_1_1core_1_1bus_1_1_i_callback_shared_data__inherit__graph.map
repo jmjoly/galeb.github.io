@@ -1,0 +1,3 @@
+<map id="com.globo.galeb.core.bus.ICallbackSharedData" name="com.globo.galeb.core.bus.ICallbackSharedData">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html" title="{com.globo.galeb.core.Farm\n|+ FARM_MAP\l+ FARM_BACKENDS_FIELDNAME\l+ FARM_VIRTUALHOSTS_FIELDNAME\l+ FARM_SHAREDDATA_ID\l+ FARM_VERSION_FIELDNAME\l|+ Farm()\l+ getVersion()\l+ setVersion()\l+ getVertx()\l+ getLogger()\l+ getVerticleId()\l+ getBackends()\l+ getVirtualhosts()\l+ getVirtualhost()\l+ toJson()\l+ getVirtualhostsToMap()\l+ addToMap()\l+ delFromMap()\l+ registerQueueAction()\l+ clearAll()\l+ updateSharedData()\l+ getFarmJson()\l+ getVirtualhostJson()\l+ getBackendJson()\l+ collectionToJson()\l}" alt="" coords="5,140,268,520"/>
+</map>

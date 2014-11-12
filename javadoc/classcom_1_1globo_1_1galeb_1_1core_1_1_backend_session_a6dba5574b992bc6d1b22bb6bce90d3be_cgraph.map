@@ -1,0 +1,10 @@
+<map id="com.globo.galeb.core.BackendSession.connect" name="com.globo.galeb.core.BackendSession.connect">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_backend_session.html#a994782ff209458756d5d56d6f66013ba" title="com.globo.galeb.core.Backend\lSession.close" alt="" coords="270,5,474,44"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_backend_session.html#a9d591c42247e8095e158980522cd68a8" title="com.globo.galeb.core.Backend\lSession.isClosed" alt="" coords="270,68,474,107"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_backend_session.html#a556d8028338bd941bf6669496760094a" title="com.globo.galeb.core.Backend\lSession.isKeepAliveLimit" alt="" coords="270,131,474,169"/>
+<area shape="rect" id="node6" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_i_queue_service.html#a9fa90be9c9aae27a3919bf6dd8703c36" title="com.globo.galeb.core.bus.\lIQueueService.publishBackendFail" alt="" coords="258,193,487,232"/>
+<area shape="rect" id="node7" href="$classcom_1_1globo_1_1galeb_1_1scheduler_1_1impl_1_1_vertx_periodic_scheduler.html#a25b0303281bf2537e9093102e9d6ac91" title="com.globo.galeb.scheduler.impl.\lVertxPeriodicScheduler.setHandler" alt="" coords="258,256,486,295"/>
+<area shape="rect" id="node8" href="$interfacecom_1_1globo_1_1galeb_1_1scheduler_1_1_i_scheduler.html#a409b3320c73ab9e6fd020ed56a8a1663" title="com.globo.galeb.scheduler.\lIScheduler.setPeriod" alt="" coords="280,319,464,357"/>
+<area shape="rect" id="node9" href="$interfacecom_1_1globo_1_1galeb_1_1scheduler_1_1_i_scheduler.html#ab35581c57e143f1658e06f55d4968de6" title="com.globo.galeb.scheduler.\lIScheduler.start" alt="" coords="280,381,464,420"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1globo_1_1galeb_1_1scheduler_1_1_i_scheduler.html#a0ae8c3e3ac4e60789f99a7782dce4a05" title="com.globo.galeb.scheduler.\lIScheduler.cancel" alt="" coords="535,5,718,44"/>
+</map>

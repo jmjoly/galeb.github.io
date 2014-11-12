@@ -1,0 +1,4 @@
+<map id="com.globo.galeb.loadbalance.impl.LeastConnectionsFinder.addAll" name="com.globo.galeb.loadbalance.impl.LeastConnectionsFinder.addAll">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_least_connections_finder.html#a421169c50f431d7af6699fb32e3ee4fb" title="com.globo.galeb.loadbalance.impl.\lLeastConnectionsFinder.add" alt="" coords="280,5,507,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_backend.html#a9cec666f93475761124fd8d650090eb4" title="com.globo.galeb.core.Backend.get\lActiveConnections" alt="" coords="555,5,781,44"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.globo.galeb.core.Backend" name="com.globo.galeb.core.Backend">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_entity.html" title="{com.globo.galeb.core.Entity\n|# id\l# createdAt\l# modifiedAt\l# entityType\l|+ getProperties()\l+ setStaticConf()\l+ toJson()\l# prepareJson()\l}" alt="" coords="104,273,290,427"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1_i_jsonable.html" title="{com.globo.galeb.core.IJsonable\n|+ ID_FIELDNAME\l+ PARENT_ID_FIELDNAME\l+ PROPERTIES_FIELDNAME\l+ STATUS_FIELDNAME\l+ CREATED_AT_FIELDNAME\l+ MODIFIED_AT_FIELDNAME\l+ LINKS_FIELDNAME\l+ LINKS_REL_FIELDNAME\l+ LINKS_HREF_FIELDNAME\l|+ toJson()\l}" alt="" coords="5,5,215,185"/>
+<area shape="rect" id="node5" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_i_callback_connection_counter.html" title="{com.globo.galeb.core.bus.\lICallbackConnectionCounter\n||+ callbackGlobalConnectionsInfo()\l+ setRegistered()\l+ isRegistered()\l}" alt="" coords="314,293,539,407"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="com.globo.galeb.core.bus.NullMap" name="com.globo.galeb.core.bus.NullMap">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_message_to_map_3_01_t_01_4.html" title="{com.globo.galeb.core.bus.\lMessageToMap\&lt; T \&gt;\n|# uriBase\l# entityId\l# parentId\l# verticleId\l# staticConf\l|+ setVerticleId()\l+ setLogger()\l+ setMessageBus()\l+ setMap()\l+ setVertx()\l+ add()\l+ del()\l+ reset()\l+ change()\l+ staticConf()\l}" alt="" coords="302,353,480,613"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_message_bus.html" title="{com.globo.galeb.core.bus.\lMessageBus\n|+ ENTITY_FIELDNAME\l+ PARENT_ID_FIELDNAME\l+ URI_FIELDNAME\l|+ MessageBus()\l+ MessageBus()\l+ getParentId()\l+ setParentId()\l+ getEntity()\l+ getEntityId()\l+ setEntity()\l+ setEntity()\l+ getUri()\l+ setUri()\l+ getUriBase()\l+ make()\l+ toString()\l+ toJson()\l}" alt="" coords="5,5,196,292"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="com.globo.galeb.handlers.rest.GetMatcherHandler.handle" name="com.globo.galeb.handlers.rest.GetMatcherHandler.handle">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_manager_service.html#a5adeb9bbb44e2b9662ae8634f166b7e4" title="com.globo.galeb.core.Manager\lService.checkUriOk" alt="" coords="261,151,466,189"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_server_response.html#a29ed00fcc0ddacd3e4328a05ac88d319" title="com.globo.galeb.core.Server\lResponse.endResponse" alt="" coords="791,92,983,131"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_http_code.html#a58730de509d3d355ba54757953bdaa71" title="com.globo.galeb.core.Http\lCode.getMessage" alt="" coords="1031,149,1208,188"/>
+<area shape="rect" id="node6" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_server_response.html#a77c774412b6c43b97a20a6881a87a117" title="com.globo.galeb.core.Server\lResponse.setMessage" alt="" coords="791,207,983,245"/>
+<area shape="rect" id="node7" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_server_response.html#a46dc348b34c7aa2489c12c48c07a5725" title="com.globo.galeb.core.Server\lResponse.setStatusCode" alt="" coords="791,29,983,68"/>
+<area shape="rect" id="node8" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a796224fdf72ac97f7cf91d618968f5e3" title="com.globo.galeb.core.Farm.get\lBackendJson" alt="" coords="260,320,466,359"/>
+<area shape="rect" id="node10" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a26294438301b8f399b9226c02f1e7b36" title="com.globo.galeb.core.Farm.get\lFarmJson" alt="" coords="260,383,466,421"/>
+<area shape="rect" id="node11" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#ac9be68418da1401011069b6b9f16636f" title="com.globo.galeb.core.Farm.get\lVersion" alt="" coords="260,508,466,547"/>
+<area shape="rect" id="node12" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a816a6e86c3ec267860d210d67d360b2e" title="com.globo.galeb.core.Farm.get\lVirtualhostJson" alt="" coords="260,445,466,484"/>
+<area shape="rect" id="node13" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_server.html#a96ebf805b8948a523dface26df01b475" title="com.globo.galeb.core.Server.set\lHttpServerName" alt="" coords="257,571,470,609"/>
+<area shape="rect" id="node14" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_server_response.html#ac23ed27643ee7fd66f37c1d1c2469973" title="com.globo.galeb.core.Server\lResponse.setId" alt="" coords="267,633,459,672"/>
+<area shape="rect" id="node15" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_manager_service.html#a708344502831625370d7bd93f7877927" title="com.globo.galeb.core.Manager\lService.setRequest" alt="" coords="261,696,466,735"/>
+<area shape="rect" id="node16" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_manager_service.html#aa9bfb72c33212ce2f0bee9aa692787dc" title="com.globo.galeb.core.Manager\lService.setResponse" alt="" coords="261,759,466,797"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_manager_service.html#ae0d7c45c35688c7a7170cce650b89be0" title="com.globo.galeb.core.Manager\lService.endResponse" alt="" coords="528,149,733,188"/>
+<area shape="rect" id="node9" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_i_queue_service.html#ab90add903c597de61de713419a27aaaa" title="com.globo.galeb.core.bus.\lIQueueService.updateSharedData" alt="" coords="518,383,743,421"/>
+</map>

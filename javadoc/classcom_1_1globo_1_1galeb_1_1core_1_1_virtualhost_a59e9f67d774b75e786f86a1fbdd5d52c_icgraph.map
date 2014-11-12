@@ -1,0 +1,6 @@
+<map id="com.globo.galeb.core.Virtualhost.toJson" name="com.globo.galeb.core.Virtualhost.toJson">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1verticles_1_1_health_manager_verticle.html#a2504d1624e2eae76be48578c54f312d5" title="com.globo.galeb.verticles.\lHealthManagerVerticle.moveBackend" alt="" coords="312,5,556,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a3e069d61fce474235c38f8d5ad7bb35a" title="com.globo.galeb.core.Farm.toJson" alt="" coords="321,68,547,93"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a1cc0fcca13c2a59ca0796eb619344c25" title="com.globo.galeb.core.Farm.Farm" alt="" coords="609,40,827,65"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a73a7b1c4ac076522238eaaddc0e55dc7" title="com.globo.galeb.core.Farm.update\lSharedData" alt="" coords="604,89,832,128"/>
+</map>

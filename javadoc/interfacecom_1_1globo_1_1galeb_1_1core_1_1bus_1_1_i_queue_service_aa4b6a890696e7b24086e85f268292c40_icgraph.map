@@ -1,0 +1,4 @@
+<map id="com.globo.galeb.core.bus.IQueueService.queueToDel" name="com.globo.galeb.core.bus.IQueueService.queueToDel">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1rest_1_1_delete_matcher_handler.html#a57e106f4e556ac74f834c2518025d772" title="com.globo.galeb.handlers.rest.\lDeleteMatcherHandler.handle" alt="" coords="258,5,462,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1verticles_1_1_health_manager_verticle.html#a2504d1624e2eae76be48578c54f312d5" title="com.globo.galeb.verticles.\lHealthManagerVerticle.moveBackend" alt="" coords="238,68,482,107"/>
+</map>

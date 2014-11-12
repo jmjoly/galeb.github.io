@@ -1,0 +1,6 @@
+<map id="com.globo.galeb.core.bus.MessageBus.getEntityId" name="com.globo.galeb.core.bus.MessageBus.getEntityId">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1verticles_1_1_health_manager_verticle.html#a67a1b1223d6f0663977c526d4de8e20c" title="com.globo.galeb.verticles.\lHealthManagerVerticle.postAddEvent" alt="" coords="232,5,475,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1verticles_1_1_health_manager_verticle.html#a7fb7407bc829b45c41dbd7a48f6d2c53" title="com.globo.galeb.verticles.\lHealthManagerVerticle.postDelEvent" alt="" coords="234,68,473,107"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_message_to_map_3_01_t_01_4.html#a910200aad3859c65222694542a59d9a5" title="com.globo.galeb.core.bus.\lMessageToMap\&lt; T \&gt;.setMessageBus" alt="" coords="231,131,476,169"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_farm_map.html#a03c0e7bd85891d00f36740436d0676e7" title="com.globo.galeb.core.bus.\lFarmMap.add" alt="" coords="524,131,701,169"/>
+</map>

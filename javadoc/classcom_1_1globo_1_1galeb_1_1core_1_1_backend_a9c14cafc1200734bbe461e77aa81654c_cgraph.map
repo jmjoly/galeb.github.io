@@ -1,0 +1,6 @@
+<map id="com.globo.galeb.core.Backend.unregisterConnectionsCounter" name="com.globo.galeb.core.Backend.unregisterConnectionsCounter">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_backend.html#aadec1b89be1af708ec7e2f0462f48052" title="com.globo.galeb.core.Backend.publish\lConnection" alt="" coords="321,36,571,75"/>
+<area shape="rect" id="node5" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_i_queue_service.html#aef6286f074d6666c636627f9b1dd7e3a" title="com.globo.galeb.core.bus.\lIQueueService.unregisterConnections\lCounter" alt="" coords="323,99,569,151"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_backend.html#ad469affbbe29fc6dc6117c611aaca0e8" title="com.globo.galeb.core.Backend.make\lConnectionInfoMessage" alt="" coords="632,5,872,44"/>
+<area shape="rect" id="node4" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_i_queue_service.html#a6d7e2546b0dd52cff2539cbf8a2f7d53" title="com.globo.galeb.core.bus.\lIQueueService.publishActiveConnections" alt="" coords="619,68,885,107"/>
+</map>

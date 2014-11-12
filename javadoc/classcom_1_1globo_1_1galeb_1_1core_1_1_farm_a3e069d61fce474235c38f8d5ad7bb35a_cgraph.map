@@ -1,0 +1,5 @@
+<map id="com.globo.galeb.core.Farm.toJson" name="com.globo.galeb.core.Farm.toJson">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_entity.html#ad7d4ac846e4238b0f8dbd14ac9180ccb" title="com.globo.galeb.core.Entity.prepareJson" alt="" coords="586,12,849,37"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a59e9f67d774b75e786f86a1fbdd5d52c" title="com.globo.galeb.core.Virtualhost.toJson" alt="" coords="280,37,538,63"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_server.html#a9555b7e3e14976c266d4fc1ccab931e2" title="com.globo.galeb.core.Server.get\lHttpServerName" alt="" coords="897,5,1110,44"/>
+</map>

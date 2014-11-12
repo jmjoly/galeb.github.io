@@ -1,0 +1,10 @@
+<map id="com.globo.galeb.core.Farm.Farm" name="com.globo.galeb.core.Farm.Farm">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a7b8163e52a3c14526ec5f23ffe176d02" title="com.globo.galeb.core.Farm.register\lQueueAction" alt="" coords="272,131,504,169"/>
+<area shape="rect" id="node7" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a3e069d61fce474235c38f8d5ad7bb35a" title="com.globo.galeb.core.Farm.toJson" alt="" coords="274,257,501,283"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_i_queue_service.html#ac16ee7362c3a408e2c59a56a2428fb51" title="com.globo.galeb.core.bus.\lIQueueService.registerQueueAdd" alt="" coords="577,5,798,44"/>
+<area shape="rect" id="node4" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_i_queue_service.html#ae7b9032e122f80d94b95db8df3375360" title="com.globo.galeb.core.bus.\lIQueueService.registerQueueDel" alt="" coords="579,68,796,107"/>
+<area shape="rect" id="node5" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_i_queue_service.html#aa157d2d1c4418fe690e265c861985108" title="com.globo.galeb.core.bus.\lIQueueService.registerQueueVersion" alt="" coords="566,131,809,169"/>
+<area shape="rect" id="node6" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_i_queue_service.html#a19ac93d4fd5a4cbbbfccdddba7e2c194" title="com.globo.galeb.core.bus.\lIQueueService.registerUpdateSharedData" alt="" coords="552,193,823,232"/>
+<area shape="rect" id="node8" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_entity.html#ad7d4ac846e4238b0f8dbd14ac9180ccb" title="com.globo.galeb.core.Entity.prepareJson" alt="" coords="871,283,1134,308"/>
+<area shape="rect" id="node9" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a59e9f67d774b75e786f86a1fbdd5d52c" title="com.globo.galeb.core.Virtualhost.toJson" alt="" coords="558,308,817,333"/>
+</map>

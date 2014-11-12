@@ -1,0 +1,4 @@
+<map id="com.globo.galeb.loadbalance.impl.HashPolicy.getChoice" name="com.globo.galeb.loadbalance.impl.HashPolicy.getChoice">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_request_data.html#a14e99347db510b3fced29387f44cdb2b" title="com.globo.galeb.core.Request\lData.getProperties" alt="" coords="280,5,482,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_request_data.html#a15a2582497c1cce7791f4936b290b258" title="com.globo.galeb.core.Request\lData.getRemoteAddress" alt="" coords="280,68,482,107"/>
+</map>

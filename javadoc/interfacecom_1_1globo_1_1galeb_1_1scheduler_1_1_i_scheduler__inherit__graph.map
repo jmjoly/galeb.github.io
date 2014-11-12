@@ -1,0 +1,5 @@
+<map id="com.globo.galeb.scheduler.IScheduler" name="com.globo.galeb.scheduler.IScheduler">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1scheduler_1_1impl_1_1_null_scheduler.html" title="{com.globo.galeb.scheduler.impl.\lNullScheduler\n||+ start()\l+ setHandler()\l+ setPeriod()\l+ cancel()\l+ cancelHandler()\l+ cancelFailedHandler()\l}" alt="" coords="5,220,217,373"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1scheduler_1_1impl_1_1_vertx_delay_scheduler.html" title="{com.globo.galeb.scheduler.impl.\lVertxDelayScheduler\n||+ VertxDelayScheduler()\l+ start()\l+ setHandler()\l+ setPeriod()\l+ cancel()\l+ cancelHandler()\l+ cancelFailedHandler()\l# finalize()\l}" alt="" coords="241,207,453,387"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1scheduler_1_1impl_1_1_vertx_periodic_scheduler.html" title="{com.globo.galeb.scheduler.impl.\lVertxPeriodicScheduler\n||+ VertxPeriodicScheduler()\l+ start()\l+ setHandler()\l+ setPeriod()\l+ cancel()\l+ cancelHandler()\l+ cancelFailedHandler()\l# finalize()\l}" alt="" coords="477,207,689,387"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="com.globo.galeb.loadbalance.impl.DefaultLoadBalancePolicy" name="com.globo.galeb.loadbalance.impl.DefaultLoadBalancePolicy">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_random_policy.html" title="{com.globo.galeb.loadbalance.impl.\lRandomPolicy\n||+ getChoice()\l+ toString()\l+ isDefault()\l}" alt="" coords="83,167,310,280"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1globo_1_1galeb_1_1loadbalance_1_1_i_load_balance_policy.html" title="{com.globo.galeb.loadbalance.\lILoadBalancePolicy\n|+ CACHE_TIMEOUT_FIELDNAME\l|+ getChoice()\l+ isDefault()\l+ toString()\l}" alt="" coords="5,5,236,119"/>
+</map>

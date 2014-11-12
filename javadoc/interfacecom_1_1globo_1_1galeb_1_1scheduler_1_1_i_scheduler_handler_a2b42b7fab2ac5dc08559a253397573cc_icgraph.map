@@ -1,0 +1,4 @@
+<map id="com.globo.galeb.scheduler.ISchedulerHandler.handle" name="com.globo.galeb.scheduler.ISchedulerHandler.handle">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1scheduler_1_1impl_1_1_vertx_delay_scheduler.html#a7f5d1b23cae53ec155601c368fd4d671" title="com.globo.galeb.scheduler.impl.\lVertxDelayScheduler.start" alt="" coords="237,5,449,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1scheduler_1_1impl_1_1_vertx_periodic_scheduler.html#a68f1b846856656802a3b3778d398b446" title="com.globo.galeb.scheduler.impl.\lVertxPeriodicScheduler.start" alt="" coords="237,68,449,107"/>
+</map>

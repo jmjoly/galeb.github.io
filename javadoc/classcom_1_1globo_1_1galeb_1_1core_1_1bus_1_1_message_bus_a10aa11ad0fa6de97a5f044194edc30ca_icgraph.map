@@ -1,0 +1,8 @@
+<map id="com.globo.galeb.core.bus.MessageBus.getUriBase" name="com.globo.galeb.core.bus.MessageBus.getUriBase">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_virtualhost_map.html#aa9024b1462e66024170dea0ae0c485ea" title="com.globo.galeb.core.bus.\lVirtualhostMap.del" alt="" coords="265,5,442,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_backend_map.html#ad8c3e585a9ef27a21c50bc213c32fa10" title="com.globo.galeb.core.bus.\lBackendMap.del" alt="" coords="265,68,442,107"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1verticles_1_1_health_manager_verticle.html#a67a1b1223d6f0663977c526d4de8e20c" title="com.globo.galeb.verticles.\lHealthManagerVerticle.postAddEvent" alt="" coords="232,131,475,169"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1verticles_1_1_health_manager_verticle.html#a7fb7407bc829b45c41dbd7a48f6d2c53" title="com.globo.galeb.verticles.\lHealthManagerVerticle.postDelEvent" alt="" coords="234,193,473,232"/>
+<area shape="rect" id="node6" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_message_to_map_3_01_t_01_4.html#a910200aad3859c65222694542a59d9a5" title="com.globo.galeb.core.bus.\lMessageToMap\&lt; T \&gt;.setMessageBus" alt="" coords="231,256,476,295"/>
+<area shape="rect" id="node7" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_farm_map.html#a03c0e7bd85891d00f36740436d0676e7" title="com.globo.galeb.core.bus.\lFarmMap.add" alt="" coords="524,256,701,295"/>
+</map>

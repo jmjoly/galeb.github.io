@@ -1,0 +1,6 @@
+<map id="com.globo.galeb.core.BackendSession.setKeepAliveTimeOut" name="com.globo.galeb.core.BackendSession.setKeepAliveTimeOut">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_backend.html#a6b729fb2f7e345eecb18802eedb33235" title="com.globo.galeb.core.Backend.connect" alt="" coords="258,15,513,40"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_backend.html#a8c6280cb71a634eb9a35e89cb294fb2e" title="com.globo.galeb.core.Backend.start\lSessionPool" alt="" coords="268,65,502,104"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1ws_1_1_frontend_web_socket_handler.html#a768b8acbd9c6941603aad629e2cdd2bf" title="com.globo.galeb.handlers.ws.\lFrontendWebSocketHandler.handle" alt="" coords="565,5,797,44"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a20b34cb3e7394256a33d68c9fe1cab13" title="com.globo.galeb.core.Virtualhost.add\lBackend" alt="" coords="561,68,802,107"/>
+</map>

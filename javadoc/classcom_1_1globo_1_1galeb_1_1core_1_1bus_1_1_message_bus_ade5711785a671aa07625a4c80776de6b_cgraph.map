@@ -1,0 +1,7 @@
+<map id="com.globo.galeb.core.bus.MessageBus.MessageBus" name="com.globo.galeb.core.bus.MessageBus.MessageBus">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_message_bus.html#afd8bffeb968fea333d2f457511462a81" title="com.globo.galeb.core.bus.\lMessageBus.make" alt="" coords="233,5,410,44"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_message_bus.html#adf17f0c1ad4533b00ec49d76e4477656" title="com.globo.galeb.core.bus.\lMessageBus.setEntity" alt="" coords="233,68,410,107"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_message_bus.html#a124b26952b0e55fee7220ac3e9154321" title="com.globo.galeb.core.bus.\lMessageBus.setParentId" alt="" coords="233,131,410,169"/>
+<area shape="rect" id="node6" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_message_bus.html#af8007f833adb8325d7fb47ead1fa7c5b" title="com.globo.galeb.core.bus.\lMessageBus.setUri" alt="" coords="233,193,410,232"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_message_bus.html#af400d1277f77e6beea225ae0776512a3" title="com.globo.galeb.core.bus.\lMessageBus.getEntity" alt="" coords="458,5,636,44"/>
+</map>

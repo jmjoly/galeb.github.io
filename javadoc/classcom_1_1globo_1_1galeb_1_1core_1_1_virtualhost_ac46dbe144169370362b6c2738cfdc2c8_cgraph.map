@@ -1,0 +1,6 @@
+<map id="com.globo.galeb.core.Virtualhost.Virtualhost" name="com.globo.galeb.core.Virtualhost.Virtualhost">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#ae6aa35a2c23d6aae49ccb88dd5b3f4c8" title="com.globo.galeb.core.Virtualhost.get\lLoadBalancePolicy" alt="" coords="272,68,510,107"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a4dbb85716ba7ec2a0d0f2dc66c065df3" title="com.globo.galeb.core.Virtualhost.load\lBalancePolicyClassLoader" alt="" coords="558,5,802,44"/>
+<area shape="rect" id="node4" href="$interfacecom_1_1globo_1_1galeb_1_1loadbalance_1_1_i_load_balance_policy.html#af2b94fdca17696f4bc8e98f5760e1995" title="com.globo.galeb.loadbalance.\lILoadBalancePolicy.isDefault" alt="" coords="581,68,779,107"/>
+<area shape="rect" id="node5" href="$interfacecom_1_1globo_1_1galeb_1_1loadbalance_1_1_i_load_balance_policy.html#ab91cbc5a79ea0f7f55938033d52d8a64" title="com.globo.galeb.loadbalance.\lILoadBalancePolicy.toString" alt="" coords="581,131,779,169"/>
+</map>

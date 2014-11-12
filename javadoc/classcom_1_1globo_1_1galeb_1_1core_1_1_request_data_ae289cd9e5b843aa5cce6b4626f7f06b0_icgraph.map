@@ -1,0 +1,5 @@
+<map id="com.globo.galeb.core.RequestData.setProperties" name="com.globo.galeb.core.RequestData.setProperties">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a42a313e66228dccda9086d2de3ebd020" title="com.globo.galeb.core.Virtualhost.get\lChoice" alt="" coords="256,37,493,76"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1_router_request_handler.html#a597bab3546975f59dd0b708d78210745" title="com.globo.galeb.handlers.\lRouterRequestHandler.handle" alt="" coords="557,5,758,44"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1ws_1_1_frontend_web_socket_handler.html#a768b8acbd9c6941603aad629e2cdd2bf" title="com.globo.galeb.handlers.ws.\lFrontendWebSocketHandler.handle" alt="" coords="541,68,773,107"/>
+</map>

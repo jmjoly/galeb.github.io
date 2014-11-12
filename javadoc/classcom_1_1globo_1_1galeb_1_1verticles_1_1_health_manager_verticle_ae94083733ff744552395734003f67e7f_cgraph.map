@@ -1,0 +1,6 @@
+<map id="com.globo.galeb.verticles.HealthManagerVerticle.start" name="com.globo.galeb.verticles.HealthManagerVerticle.start">
+<area shape="rect" id="node2" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_i_queue_service.html#adb27c571d2d372116d689a0dcb5a893d" title="com.globo.galeb.core.bus.\lIQueueService.registerHealthcheck" alt="" coords="239,5,470,44"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1globo_1_1galeb_1_1scheduler_1_1_i_scheduler.html#a411b17203934f44dc0e37cf59635d10a" title="com.globo.galeb.scheduler.\lIScheduler.setHandler" alt="" coords="263,68,447,107"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1scheduler_1_1impl_1_1_vertx_periodic_scheduler.html#a6f8982c016570c02aedf81a32cf34b75" title="com.globo.galeb.scheduler.impl.\lVertxPeriodicScheduler.setPeriod" alt="" coords="245,131,464,169"/>
+<area shape="rect" id="node5" href="$interfacecom_1_1globo_1_1galeb_1_1scheduler_1_1_i_scheduler.html#ab35581c57e143f1658e06f55d4968de6" title="com.globo.galeb.scheduler.\lIScheduler.start" alt="" coords="263,193,447,232"/>
+</map>

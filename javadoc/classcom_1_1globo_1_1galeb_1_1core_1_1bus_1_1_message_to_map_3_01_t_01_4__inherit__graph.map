@@ -1,0 +1,6 @@
+<map id="com.globo.galeb.core.bus.MessageToMap&lt; T &gt;" name="com.globo.galeb.core.bus.MessageToMap&lt; T &gt;">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_backend_map.html" title="{com.globo.galeb.core.bus.\lBackendMap\n||+ BackendMap()\l+ add()\l+ del()\l+ reset()\l+ change()\l}" alt="" coords="5,380,183,520"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_farm_map.html" title="{com.globo.galeb.core.bus.\lFarmMap\n||+ FarmMap()\l+ add()\l+ del()\l+ reset()\l+ change()\l}" alt="" coords="207,380,384,520"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_null_map.html" title="{com.globo.galeb.core.bus.\lNullMap\n||+ NullMap()\l+ add()\l+ del()\l+ reset()\l+ change()\l}" alt="" coords="408,380,586,520"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_virtualhost_map.html" title="{com.globo.galeb.core.bus.\lVirtualhostMap\n||+ VirtualhostMap()\l+ add()\l+ del()\l+ reset()\l+ change()\l}" alt="" coords="609,380,787,520"/>
+</map>

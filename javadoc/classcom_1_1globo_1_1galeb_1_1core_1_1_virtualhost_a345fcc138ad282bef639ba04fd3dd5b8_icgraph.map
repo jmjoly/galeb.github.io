@@ -1,0 +1,7 @@
+<map id="com.globo.galeb.core.Virtualhost.setTransientState" name="com.globo.galeb.core.Virtualhost.setTransientState">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a20b34cb3e7394256a33d68c9fe1cab13" title="com.globo.galeb.core.Virtualhost.add\lBackend" alt="" coords="301,5,542,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a2277bf06d7c0cc4e49ac7454c6ef557e" title="com.globo.galeb.core.Virtualhost.clear" alt="" coords="298,68,546,93"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a0a8c5a9b76251d4cfd6e5de6cb0ba7ab" title="com.globo.galeb.core.Virtualhost.clearAll" alt="" coords="290,117,553,143"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a7b5f3e3fc5a7598b4ca52ba96106949d" title="com.globo.galeb.core.Virtualhost.remove\lBackend" alt="" coords="290,167,554,205"/>
+<area shape="rect" id="node6" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_backend_map.html#ad8c3e585a9ef27a21c50bc213c32fa10" title="com.globo.galeb.core.bus.\lBackendMap.del" alt="" coords="602,167,779,205"/>
+</map>

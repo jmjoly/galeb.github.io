@@ -1,0 +1,10 @@
+<map id="com.globo.galeb.core.ServerResponse.logRequest" name="com.globo.galeb.core.ServerResponse.logRequest">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_server_response.html#a29ed00fcc0ddacd3e4328a05ac88d319" title="com.globo.galeb.core.Server\lResponse.endResponse" alt="" coords="245,193,437,232"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_manager_service.html#ae0d7c45c35688c7a7170cce650b89be0" title="com.globo.galeb.core.Manager\lService.endResponse" alt="" coords="485,5,690,44"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1rest_1_1_post_matcher_handler.html#aafd00d4151497cd738069af53fc73c9f" title="com.globo.galeb.handlers.rest.\lPostMatcherHandler.handle" alt="" coords="486,68,689,107"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1rest_1_1_put_matcher_handler.html#aa2c92cf402bd70677510c550291a7333" title="com.globo.galeb.handlers.rest.\lPutMatcherHandler.handle" alt="" coords="486,131,689,169"/>
+<area shape="rect" id="node6" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1rest_1_1_delete_matcher_handler.html#a57e106f4e556ac74f834c2518025d772" title="com.globo.galeb.handlers.rest.\lDeleteMatcherHandler.handle" alt="" coords="486,193,689,232"/>
+<area shape="rect" id="node7" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1rest_1_1_get_matcher_handler.html#ac65508506a93c8dd2a7b027e11abafe3" title="com.globo.galeb.handlers.rest.\lGetMatcherHandler.handle" alt="" coords="486,256,689,295"/>
+<area shape="rect" id="node8" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1_router_response_handler.html#ab5267d2163465ec196465c5f3eb93b8f" title="com.globo.galeb.handlers.\lRouterResponseHandler.handle" alt="" coords="738,343,949,381"/>
+<area shape="rect" id="node9" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_server_response.html#a699301cc846b50f9da18a30440a7dd0d" title="com.globo.galeb.core.Server\lResponse.showErrorAndClose" alt="" coords="486,371,689,409"/>
+</map>

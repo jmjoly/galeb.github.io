@@ -1,0 +1,7 @@
+<map id="com.globo.galeb.exceptions.AbstractHttpException" name="com.globo.galeb.exceptions.AbstractHttpException">
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1exceptions_1_1_bad_gateway_exception.html" title="{com.globo.galeb.exceptions.\lBadGatewayException\n||+ BadGatewayException()\l}" alt="" coords="5,275,196,361"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1exceptions_1_1_bad_request_exception.html" title="{com.globo.galeb.exceptions.\lBadRequestException\n||+ BadRequestException()\l}" alt="" coords="220,275,410,361"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1exceptions_1_1_gateway_timeout_exception.html" title="{com.globo.galeb.exceptions.\lGatewayTimeoutException\n||+ GatewayTimeoutException()\l}" alt="" coords="435,275,635,361"/>
+<area shape="rect" id="node6" href="$classcom_1_1globo_1_1galeb_1_1exceptions_1_1_not_found_exception.html" title="{com.globo.galeb.exceptions.\lNotFoundException\n||+ NotFoundException()\l}" alt="" coords="660,275,850,361"/>
+<area shape="rect" id="node7" href="$classcom_1_1globo_1_1galeb_1_1exceptions_1_1_service_unavailable_exception.html" title="{com.globo.galeb.exceptions.\lServiceUnavailableException\n||+ ServiceUnavailableException()\l}" alt="" coords="875,275,1089,361"/>
+</map>

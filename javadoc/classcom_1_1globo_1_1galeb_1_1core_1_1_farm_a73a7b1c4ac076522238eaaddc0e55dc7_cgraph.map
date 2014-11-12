@@ -1,0 +1,7 @@
+<map id="com.globo.galeb.core.Farm.updateSharedData" name="com.globo.galeb.core.Farm.updateSharedData">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a192223ed70da0eb982420b9d70fee213" title="com.globo.galeb.core.Farm.collection\lToJson" alt="" coords="281,5,524,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a98c140e46d7cd7357af002f018f05459" title="com.globo.galeb.core.Farm.get\lBackends" alt="" coords="300,68,506,107"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a3e069d61fce474235c38f8d5ad7bb35a" title="com.globo.galeb.core.Farm.toJson" alt="" coords="290,131,516,156"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_entity.html#ad7d4ac846e4238b0f8dbd14ac9180ccb" title="com.globo.galeb.core.Entity.prepareJson" alt="" coords="879,131,1141,156"/>
+<area shape="rect" id="node6" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a59e9f67d774b75e786f86a1fbdd5d52c" title="com.globo.galeb.core.Virtualhost.toJson" alt="" coords="572,156,831,181"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="com.globo.galeb.core.bus.MessageToMap&lt; T &gt;" name="com.globo.galeb.core.bus.MessageToMap&lt; T &gt;">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_message_bus.html" title="{com.globo.galeb.core.bus.\lMessageBus\n|+ ENTITY_FIELDNAME\l+ PARENT_ID_FIELDNAME\l+ URI_FIELDNAME\l|+ MessageBus()\l+ MessageBus()\l+ getParentId()\l+ setParentId()\l+ getEntity()\l+ getEntityId()\l+ setEntity()\l+ setEntity()\l+ getUri()\l+ setUri()\l+ getUriBase()\l+ make()\l+ toString()\l+ toJson()\l}" alt="" coords="5,5,196,292"/>
+</map>

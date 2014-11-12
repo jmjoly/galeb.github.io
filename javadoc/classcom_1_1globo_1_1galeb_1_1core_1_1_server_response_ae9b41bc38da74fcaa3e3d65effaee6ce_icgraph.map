@@ -1,0 +1,6 @@
+<map id="com.globo.galeb.core.ServerResponse.closeResponse" name="com.globo.galeb.core.ServerResponse.closeResponse">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1_router_response_handler.html#ab5267d2163465ec196465c5f3eb93b8f" title="com.globo.galeb.handlers.\lRouterResponseHandler.handle" alt="" coords="497,5,708,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_server_response.html#a699301cc846b50f9da18a30440a7dd0d" title="com.globo.galeb.core.Server\lResponse.showErrorAndClose" alt="" coords="245,67,449,105"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_server_response.html#a47bf48df7c85f0df7b4388e31fff2cfb" title="com.globo.galeb.core.Server\lResponse.ServerResponse" alt="" coords="506,68,698,107"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1_router_request_handler.html#a597bab3546975f59dd0b708d78210745" title="com.globo.galeb.handlers.\lRouterRequestHandler.handle" alt="" coords="502,131,703,169"/>
+</map>

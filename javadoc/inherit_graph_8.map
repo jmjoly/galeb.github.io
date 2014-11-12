@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_message_to_map_3_01_t_01_4.html" title="com.globo.galeb.core.bus.\lMessageToMap\&lt; T \&gt;" alt="" coords="5,100,183,139"/>
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_backend_map.html" title="com.globo.galeb.core.bus.\lBackendMap" alt="" coords="231,5,409,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_farm_map.html" title="com.globo.galeb.core.bus.\lFarmMap" alt="" coords="231,68,409,107"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_null_map.html" title="com.globo.galeb.core.bus.\lNullMap" alt="" coords="231,131,409,169"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_virtualhost_map.html" title="com.globo.galeb.core.bus.\lVirtualhostMap" alt="" coords="231,193,409,232"/>
+</map>

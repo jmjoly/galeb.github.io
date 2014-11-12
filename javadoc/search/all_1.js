@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['backend',['Backend',['../classcom_1_1globo_1_1galeb_1_1core_1_1_backend.html',1,'com::globo::galeb::core']]],
+  ['backend',['BACKEND',['../enumcom_1_1globo_1_1galeb_1_1core_1_1_manager_service_1_1_uri_supported.html#a3eeefe6a938688e07d9c12c9fee399b1',1,'com.globo.galeb.core.ManagerService.UriSupported.BACKEND()'],['../classcom_1_1globo_1_1galeb_1_1core_1_1_backend.html#aef1d37f05fde3953fccea43b89309e4f',1,'com.globo.galeb.core.Backend.Backend(final String backendId, final Vertx vertx)'],['../classcom_1_1globo_1_1galeb_1_1core_1_1_backend.html#a84b56fbbee2e9176da1641d655dd7b2c',1,'com.globo.galeb.core.Backend.Backend(JsonObject json, final Vertx vertx)']]],
+  ['backend_2ejava',['Backend.java',['../_backend_8java.html',1,'']]],
+  ['backendmap',['BackendMap',['../classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_backend_map.html',1,'com::globo::galeb::core::bus']]],
+  ['backendmap',['BackendMap',['../classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_backend_map.html#a61d2ad9b819894ef8dad8bb8c425fd08',1,'com::globo::galeb::core::bus::BackendMap']]],
+  ['backendmap_2ejava',['BackendMap.java',['../_backend_map_8java.html',1,'']]],
+  ['backends_5feligible_5ffieldname',['BACKENDS_ELIGIBLE_FIELDNAME',['../classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#ae84e15bf554c8442e937bb23bbac0815',1,'com::globo::galeb::core::Virtualhost']]],
+  ['backends_5ffailed_5ffieldname',['BACKENDS_FAILED_FIELDNAME',['../classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a915a198ecb69fd1a6cfb766064873f2c',1,'com::globo::galeb::core::Virtualhost']]],
+  ['backends_5ffieldname',['BACKENDS_FIELDNAME',['../classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a5c6de9a48ad9e93a5c3a2cce83a9d891',1,'com::globo::galeb::core::Virtualhost']]],
+  ['backendsession',['BackendSession',['../classcom_1_1globo_1_1galeb_1_1core_1_1_backend_session.html#a7779fe6947d903f4616c0e2cf1ba56cd',1,'com::globo::galeb::core::BackendSession']]],
+  ['backendsession',['BackendSession',['../classcom_1_1globo_1_1galeb_1_1core_1_1_backend_session.html',1,'com::globo::galeb::core']]],
+  ['backendsession_2ejava',['BackendSession.java',['../_backend_session_8java.html',1,'']]],
+  ['backendwebsockethandler',['BackendWebSocketHandler',['../classcom_1_1globo_1_1galeb_1_1handlers_1_1ws_1_1_backend_web_socket_handler.html',1,'com::globo::galeb::handlers::ws']]],
+  ['backendwebsockethandler',['BackendWebSocketHandler',['../classcom_1_1globo_1_1galeb_1_1handlers_1_1ws_1_1_backend_web_socket_handler.html#a2506c173ba86d0747e43dbcc053c3d1b',1,'com::globo::galeb::handlers::ws::BackendWebSocketHandler']]],
+  ['backendwebsockethandler_2ejava',['BackendWebSocketHandler.java',['../_backend_web_socket_handler_8java.html',1,'']]],
+  ['bad_5fgateway',['BAD_GATEWAY',['../classcom_1_1globo_1_1galeb_1_1core_1_1_http_code.html#acf6c052a5f3d16c0f6a2fd399c53771c',1,'com::globo::galeb::core::HttpCode']]],
+  ['bad_5frequest',['BAD_REQUEST',['../classcom_1_1globo_1_1galeb_1_1core_1_1_http_code.html#a11e0f893fc28be112627f58a40ec9056',1,'com::globo::galeb::core::HttpCode']]],
+  ['badgatewayexception',['BadGatewayException',['../classcom_1_1globo_1_1galeb_1_1exceptions_1_1_bad_gateway_exception.html#a64b3ce016f490fde4bb9d1daf3b48c54',1,'com::globo::galeb::exceptions::BadGatewayException']]],
+  ['badgatewayexception',['BadGatewayException',['../classcom_1_1globo_1_1galeb_1_1exceptions_1_1_bad_gateway_exception.html',1,'com::globo::galeb::exceptions']]],
+  ['badgatewayexception_2ejava',['BadGatewayException.java',['../_bad_gateway_exception_8java.html',1,'']]],
+  ['badrequestexception',['BadRequestException',['../classcom_1_1globo_1_1galeb_1_1exceptions_1_1_bad_request_exception.html#a0db9be836a632f8d3753b14c4c4e69e9',1,'com::globo::galeb::exceptions::BadRequestException']]],
+  ['badrequestexception',['BadRequestException',['../classcom_1_1globo_1_1galeb_1_1exceptions_1_1_bad_request_exception.html',1,'com::globo::galeb::exceptions']]],
+  ['badrequestexception_2ejava',['BadRequestException.java',['../_bad_request_exception_8java.html',1,'']]],
+  ['bytespumped',['bytesPumped',['../classcom_1_1globo_1_1galeb_1_1streams_1_1_pump.html#aaf89231a0531d28afe55d664f2e42b3c',1,'com::globo::galeb::streams::Pump']]]
+];

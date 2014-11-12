@@ -1,0 +1,4 @@
+<map id="com.globo.galeb.core.bus.ICallbackConnectionCounter.isRegistered" name="com.globo.galeb.core.bus.ICallbackConnectionCounter.isRegistered">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_vertx_queue_service.html#a5b3a9445541a1aa7b39664ebec710616" title="com.globo.galeb.core.bus.\lVertxQueueService.registerConnections\lCounter" alt="" coords="329,5,587,57"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_vertx_queue_service.html#a90aa6b7e056b66f5ca0fd0498137f6b3" title="com.globo.galeb.core.bus.\lVertxQueueService.unregisterConnections\lCounter" alt="" coords="321,81,595,133"/>
+</map>

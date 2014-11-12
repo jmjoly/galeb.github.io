@@ -1,0 +1,10 @@
+<map id="com.globo.galeb.metrics.StatsdClient.send" name="com.globo.galeb.metrics.StatsdClient.send">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1metrics_1_1_counter_with_statsd.html#aadc41ecdf2e3cd5cbcdc38be27c6cdb6" title="com.globo.galeb.metrics.\lCounterWithStatsd.decrHttpCode" alt="" coords="223,5,442,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1metrics_1_1_counter_with_statsd.html#af4f50d81a6aa2c70dc5a487840fbded6" title="com.globo.galeb.metrics.\lCounterWithStatsd.httpCode" alt="" coords="237,68,428,107"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1metrics_1_1_counter_with_statsd.html#a8fd175060a50ef79e2f466e48ce8a0fb" title="com.globo.galeb.metrics.\lCounterWithStatsd.incrHttpCode" alt="" coords="225,131,440,169"/>
+<area shape="rect" id="node6" href="$classcom_1_1globo_1_1galeb_1_1metrics_1_1_counter_with_statsd.html#a8891ed59eb0400dd0e08400abb984ba0" title="com.globo.galeb.metrics.\lCounterWithStatsd.requestTime" alt="" coords="227,193,438,232"/>
+<area shape="rect" id="node8" href="$classcom_1_1globo_1_1galeb_1_1metrics_1_1_counter_with_statsd.html#a30d9ccae20ed9e4ffedffbbf4c794d77" title="com.globo.galeb.metrics.\lCounterWithStatsd.sendActive\lSessions" alt="" coords="231,256,434,308"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1metrics_1_1_counter_with_statsd.html#a3f9bb18b9f6fd0cc0491d3283c58406b" title="com.globo.galeb.metrics.\lCounterWithStatsd.httpCode" alt="" coords="500,68,691,107"/>
+<area shape="rect" id="node7" href="$classcom_1_1globo_1_1galeb_1_1metrics_1_1_counter_with_statsd.html#aec8ace1ca3ca10f9e2dda63c7186b4f8" title="com.globo.galeb.metrics.\lCounterWithStatsd.requestTime" alt="" coords="490,193,701,232"/>
+<area shape="rect" id="node9" href="$classcom_1_1globo_1_1galeb_1_1metrics_1_1_counter_with_statsd.html#a6fbf9fc36800e7a7b42787b0d5577c11" title="com.globo.galeb.metrics.\lCounterWithStatsd.sendActive\lSessions" alt="" coords="494,256,696,308"/>
+</map>

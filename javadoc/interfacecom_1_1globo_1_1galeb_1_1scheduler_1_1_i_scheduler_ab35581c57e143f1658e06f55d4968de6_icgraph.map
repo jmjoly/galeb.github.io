@@ -1,0 +1,6 @@
+<map id="com.globo.galeb.scheduler.IScheduler.start" name="com.globo.galeb.scheduler.IScheduler.start">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_backend_session.html#a6dba5574b992bc6d1b22bb6bce90d3be" title="com.globo.galeb.core.Backend\lSession.connect" alt="" coords="237,55,441,93"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_backend.html#a6b729fb2f7e345eecb18802eedb33235" title="com.globo.galeb.core.Backend.connect" alt="" coords="489,5,744,31"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1verticles_1_1_health_manager_verticle.html#ae94083733ff744552395734003f67e7f" title="com.globo.galeb.verticles.\lHealthManagerVerticle.start" alt="" coords="246,117,432,156"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_backend.html#a8c6280cb71a634eb9a35e89cb294fb2e" title="com.globo.galeb.core.Backend.start\lSessionPool" alt="" coords="500,55,734,93"/>
+</map>

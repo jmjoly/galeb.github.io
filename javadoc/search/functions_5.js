@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['farm',['Farm',['../classcom_1_1globo_1_1galeb_1_1core_1_1_farm.html#a1cc0fcca13c2a59ca0796eb619344c25',1,'com::globo::galeb::core::Farm']]],
+  ['farmmap',['FarmMap',['../classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_farm_map.html#ae92ab0ec532c29cd5f476ef54ec845fb',1,'com::globo::galeb::core::bus::FarmMap']]],
+  ['finalize',['finalize',['../classcom_1_1globo_1_1galeb_1_1core_1_1_backend.html#a7db8aed093736cd887ae5f2c887b0334',1,'com.globo.galeb.core.Backend.finalize()'],['../classcom_1_1globo_1_1galeb_1_1core_1_1_backend_session.html#ae9404f6a1c516b13ab494baa59117117',1,'com.globo.galeb.core.BackendSession.finalize()'],['../classcom_1_1globo_1_1galeb_1_1handlers_1_1_router_request_handler.html#acc2456a4394b1431384e69d909cce3fa',1,'com.globo.galeb.handlers.RouterRequestHandler.finalize()'],['../classcom_1_1globo_1_1galeb_1_1scheduler_1_1impl_1_1_vertx_delay_scheduler.html#acb4a976f350e73b81b7f6d2feb0e1f67',1,'com.globo.galeb.scheduler.impl.VertxDelayScheduler.finalize()'],['../classcom_1_1globo_1_1galeb_1_1scheduler_1_1impl_1_1_vertx_periodic_scheduler.html#a29a7d375839e62d6e119f39da7c9d26f',1,'com.globo.galeb.scheduler.impl.VertxPeriodicScheduler.finalize()']]],
+  ['forwardtobackend',['forwardToBackend',['../classcom_1_1globo_1_1galeb_1_1handlers_1_1ws_1_1_backend_web_socket_handler.html#ab7539aef24099fcc89274e30486a7d46',1,'com::globo::galeb::handlers::ws::BackendWebSocketHandler']]],
+  ['frontendwebsockethandler',['FrontendWebSocketHandler',['../classcom_1_1globo_1_1galeb_1_1handlers_1_1ws_1_1_frontend_web_socket_handler.html#aa6206793439dcb8747d4d8589f062b13',1,'com::globo::galeb::handlers::ws::FrontendWebSocketHandler']]]
+];

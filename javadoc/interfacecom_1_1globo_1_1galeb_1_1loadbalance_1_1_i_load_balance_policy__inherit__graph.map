@@ -1,0 +1,7 @@
+<map id="com.globo.galeb.loadbalance.ILoadBalancePolicy" name="com.globo.galeb.loadbalance.ILoadBalancePolicy">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_default_load_balance_policy.html" title="{com.globo.galeb.loadbalance.impl.\lDefaultLoadBalancePolicy\n||+ toString()\l+ isDefault()\l}" alt="" coords="224,341,451,441"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_hash_policy.html" title="{com.globo.galeb.loadbalance.impl.\lHashPolicy\n|+ DEFAULT_HASH_ALGORITHM\l+ HASH_ALGORITHM_FIELDNAME\l|+ getChoice()\l+ isDefault()\l+ toString()\l}" alt="" coords="43,167,283,293"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_least_conn_policy.html" title="{com.globo.galeb.loadbalance.impl.\lLeastConnPolicy\n||+ getChoice()\l+ isDefault()\l+ toString()\l}" alt="" coords="307,173,533,287"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_random_policy.html" title="{com.globo.galeb.loadbalance.impl.\lRandomPolicy\n||+ getChoice()\l+ toString()\l+ isDefault()\l}" alt="" coords="557,173,784,287"/>
+<area shape="rect" id="node6" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_round_robin_policy.html" title="{com.globo.galeb.loadbalance.impl.\lRoundRobinPolicy\n||+ getChoice()\l+ toString()\l+ isDefault()\l}" alt="" coords="808,173,1035,287"/>
+</map>

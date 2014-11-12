@@ -1,0 +1,6 @@
+<map id="com.globo.galeb.core.Farm" name="com.globo.galeb.core.Farm">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_entity.html" title="{com.globo.galeb.core.Entity\n|# staticConf\l# id\l# createdAt\l# modifiedAt\l# properties\l# idObj\l# entityType\l|+ getProperties()\l+ setStaticConf()\l+ toJson()\l# prepareJson()\l}" alt="" coords="17,233,203,427"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1_i_jsonable.html" title="{com.globo.galeb.core.IJsonable\n|+ ID_FIELDNAME\l+ PARENT_ID_FIELDNAME\l+ PROPERTIES_FIELDNAME\l+ STATUS_FIELDNAME\l+ CREATED_AT_FIELDNAME\l+ MODIFIED_AT_FIELDNAME\l+ LINKS_FIELDNAME\l+ LINKS_REL_FIELDNAME\l+ LINKS_HREF_FIELDNAME\l|+ toJson()\l}" alt="" coords="5,5,215,185"/>
+<area shape="rect" id="node4" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_i_callback_queue_action.html" title="{com.globo.galeb.core.bus.\lICallbackQueueAction\n||+ setVersion()\l+ delFromMap()\l+ addToMap()\l}" alt="" coords="227,273,404,387"/>
+<area shape="rect" id="node5" href="$interfacecom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_i_callback_shared_data.html" title="{com.globo.galeb.core.bus.\lICallbackSharedData\n||+ updateSharedData()\l}" alt="" coords="428,287,606,373"/>
+</map>

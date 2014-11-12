@@ -1,0 +1,6 @@
+<map id="com.globo.galeb.core.ManagerService.checkUriOk" name="com.globo.galeb.core.ManagerService.checkUriOk">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1rest_1_1_delete_matcher_handler.html#a57e106f4e556ac74f834c2518025d772" title="com.globo.galeb.handlers.rest.\lDeleteMatcherHandler.handle" alt="" coords="258,5,462,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1rest_1_1_put_matcher_handler.html#aa2c92cf402bd70677510c550291a7333" title="com.globo.galeb.handlers.rest.\lPutMatcherHandler.handle" alt="" coords="258,68,462,107"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1rest_1_1_post_matcher_handler.html#aafd00d4151497cd738069af53fc73c9f" title="com.globo.galeb.handlers.rest.\lPostMatcherHandler.handle" alt="" coords="258,131,462,169"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1handlers_1_1rest_1_1_get_matcher_handler.html#ac65508506a93c8dd2a7b027e11abafe3" title="com.globo.galeb.handlers.rest.\lGetMatcherHandler.handle" alt="" coords="258,193,462,232"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="com.globo.galeb.core.bus.BackendMap.del" name="com.globo.galeb.core.bus.BackendMap.del">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_message_bus.html#a36c7fa20f784eab7a7a247bdf8234deb" title="com.globo.galeb.core.bus.\lMessageBus.getUri" alt="" coords="274,5,452,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1bus_1_1_message_bus.html#a10aa11ad0fa6de97a5f044194edc30ca" title="com.globo.galeb.core.bus.\lMessageBus.getUriBase" alt="" coords="274,68,452,107"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a7b5f3e3fc5a7598b4ca52ba96106949d" title="com.globo.galeb.core.Virtualhost.remove\lBackend" alt="" coords="231,131,495,169"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_virtualhost.html#a345fcc138ad282bef639ba04fd3dd5b8" title="com.globo.galeb.core.Virtualhost.set\lTransientState" alt="" coords="543,131,779,169"/>
+</map>

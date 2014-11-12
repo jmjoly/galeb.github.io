@@ -1,0 +1,7 @@
+<map id="com.globo.galeb.loadbalance.impl.LeastConnPolicy.getChoice" name="com.globo.galeb.loadbalance.impl.LeastConnPolicy.getChoice">
+<area shape="rect" id="node2" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_least_connections_finder.html#af69dace39dd8a0f2d1e6cfc4c02513a0" title="com.globo.galeb.loadbalance.impl.\lLeastConnectionsFinder.get" alt="" coords="280,5,507,44"/>
+<area shape="rect" id="node3" href="$classcom_1_1globo_1_1galeb_1_1core_1_1_request_data.html#a14e99347db510b3fced29387f44cdb2b" title="com.globo.galeb.core.Request\lData.getProperties" alt="" coords="292,68,494,107"/>
+<area shape="rect" id="node4" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_least_connections_finder.html#aad33a6cd26d583440ce38e7373ab4ae8" title="com.globo.galeb.loadbalance.impl.\lLeastConnectionsFinder.rebuild" alt="" coords="280,131,507,169"/>
+<area shape="rect" id="node6" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_least_connections_finder.html#a7adfcc82cb29934aaff8ac8a1d7be3a5" title="com.globo.galeb.loadbalance.impl.\lLeastConnectionsFinder.update" alt="" coords="280,193,507,232"/>
+<area shape="rect" id="node5" href="$classcom_1_1globo_1_1galeb_1_1loadbalance_1_1impl_1_1_least_connections_finder.html#acde081ef58ad2062f46dce48925c1fb6" title="com.globo.galeb.loadbalance.impl.\lLeastConnectionsFinder.addAll" alt="" coords="555,163,781,201"/>
+</map>
